@@ -1,0 +1,391 @@
+body{
+  background-image: url(img/IMG_0995.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+#cabecera{
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 80px;
+
+}
+#logo{
+width: 40%;
+height: 80px;
+background-color: ;
+float: left;
+margin: 0;
+padding: 0;
+text-align: center;
+padding-top: 8px;
+}
+#logo img{
+  width: 70px;
+  height: auto;
+
+}
+h1{
+  font-family: 'Damion', cursive;
+  font-size: 60px;
+  background-color:  ;
+  width: 25%;
+  height: 80px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#redesso{
+  width: 35%;
+  height: 80px;
+  float: left;
+  background-color: ;
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+}
+#redesso li{
+  list-style-type: none;
+}
+.redes{
+width: 30px;
+height: auto;
+float: right;
+padding: 5px;
+margin: 5px;
+
+}
+
+
+.titulo{
+  width: 100%;
+  height: 80px;
+  background-color: white;
+}
+
+
+#menu{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+
+#menu li{
+  display: inline-block;
+  padding: 20px;
+  margin: 0 auto;
+
+
+}
+
+
+#general{
+background-color: #FFF;
+opacity: 0.7;
+width: 80%;
+height: 0 auto;
+margin: 25px auto;
+}
+
+
+#info{
+
+width: 80%;
+height: 1000px;
+margin: 0 auto;
+padding-top: 0px ;
+background-color: rgba(255, 255, 255, 0.3);
+
+}
+
+#tituloguia{
+  text-align: center;
+  font-size: 30px;
+
+
+}
+
+#tituloguia p{
+padding-top: 20px;
+}
+#guia{
+  background-color: yellow;
+  width: 100%;
+  height: 40%;
+  margin-bottom: 5%;
+}
+#fotoguia{
+  background-color: pink;
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+#textg{
+  float:left;
+  width: 55%;
+  margin: 2%;
+  background-color: green;
+}
+
+#textg p{
+  width:
+
+}
+
+#divbotons3{
+  float: left;
+  position: relative;
+  width: 60%;
+  height: 30%;
+  background-color: red;
+  margin-top: 90px;
+}
+
+#divbotons3 a {
+  margin:2%;
+}
+
+.boton_personalizado111{
+  float: left;
+   text-decoration: none;
+   padding: 1%;
+   font-size: 20px;
+   color: #ffffff;
+   background-color: #1883ba;
+   border-radius: 6px;
+   border: 2px solid #0016b0;
+ }
+
+ .boton_personalizado222{
+   float: left;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  .boton_personalizado333{
+    float: left;
+     text-decoration: none;
+     padding: 1%;
+     font-size: 20px;
+     color: #ffffff;
+     background-color: #1883ba;
+     border-radius: 6px;
+     border: 2px solid #0016b0;
+   }
+   .boton_personalizado444{
+      margin-top: 10px;
+     float: right;
+      text-decoration: none;
+      padding: 1%;
+      font-size: 20px;
+      color: #ffffff;
+      background-color: #1883ba;
+      border-radius: 6px;
+      border: 2px solid #0016b0;
+    }
+
+
+
+#titulosamarreta{
+  text-align: center;
+  font-size: 30px;
+
+
+}
+
+#titulosamarreta p{
+padding-top: 20px;
+}
+
+#samarreta{
+  background-color: yellow;
+  width: 100%;
+  height: 40%;
+  margin-bottom: 5%;
+}
+
+#fotosamarreta{
+  background-color: pink;
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+#texts{
+  float:left;
+  width: 55%;
+  margin: 2%;
+  background-color: green;
+}
+
+#texts p{
+  width:
+
+}
+
+#divbotons{
+  float: left;
+  position: relative;
+  width: 60%;
+  height: 30%;
+  background-color: red;
+  margin-top: 90px;
+}
+
+#divbotons a {
+  margin:2%;
+}
+
+.boton_personalizado1{
+  float: left;
+   text-decoration: none;
+   padding: 1%;
+   font-size: 20px;
+   color: #ffffff;
+   background-color: #1883ba;
+   border-radius: 6px;
+   border: 2px solid #0016b0;
+ }
+
+ .boton_personalizado2{
+   float: left;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  .boton_personalizado3{
+    float: left;
+     text-decoration: none;
+     padding: 1%;
+     font-size: 20px;
+     color: #ffffff;
+     background-color: #1883ba;
+     border-radius: 6px;
+     border: 2px solid #0016b0;
+   }
+   .boton_personalizado4{
+      margin-top: 10px;
+     float: right;
+      text-decoration: none;
+      padding: 1%;
+      font-size: 20px;
+      color: #ffffff;
+      background-color: #1883ba;
+      border-radius: 6px;
+      border: 2px solid #0016b0;
+    }
+
+#chapes{
+  background-color: yellow;
+  width: 100%;
+  height: 40%;
+  margin-bottom: 10%;
+}
+
+#titulochapes{
+  text-align: center;
+  font-size: 30px;
+
+
+}
+
+#titulochapes p{
+  padding-top: 5px;
+
+
+}
+
+#fotochapes{
+  background-color: pink;
+  width: 40%;
+  height: 100%;
+  float: left;
+}
+
+#textc{
+  float:left;
+  width: 55%;
+  margin: 2%;
+  background-color: green;
+
+}
+
+
+#divbotons2{
+  float: left;
+  position: relative;
+  width: 60%;
+  height: 30%;
+  background-color: red;
+  margin-top: 90px;
+}
+
+#divbotons2 a {
+  margin:2%;
+}
+
+.boton_personalizado11{
+  float: left;
+   text-decoration: none;
+   padding: 1%;
+   font-size: 20px;
+   color: #ffffff;
+   background-color: #1883ba;
+   border-radius: 6px;
+   border: 2px solid #0016b0;
+ }
+
+ .boton_personalizado22{
+   float: left;
+    text-decoration: none;
+    padding: 1%;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  .boton_personalizado33{
+    float: left;
+     text-decoration: none;
+     padding: 1%;
+     font-size: 20px;
+     color: #ffffff;
+     background-color: #1883ba;
+     border-radius: 6px;
+     border: 2px solid #0016b0;
+   }
+   .boton_personalizado44{
+      margin-top: 10px;
+     float: right;
+      text-decoration: none;
+      padding: 1%;
+      font-size: 20px;
+      color: #ffffff;
+      background-color: #1883ba;
+      border-radius: 6px;
+      border: 2px solid #0016b0;
+    }
